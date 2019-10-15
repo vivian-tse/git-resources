@@ -24,3 +24,4 @@
 ### You could start by adding some links to the Readme or by adding more information here!
 * This is the first time i am using github and it is amazing!!!
 * Anyone else love the artwork for this years Hacktoberfest?! I want that t-shirt! Check it out at https://hacktoberfest.digitalocean.com/
+* First time contributing to this years Hacktober fest, love the artwork on their website and also here for the free t-shirt everyone should contribute.
